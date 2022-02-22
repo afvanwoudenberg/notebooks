@@ -1,0 +1,12 @@
+name: apps
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - python=3.10
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - pandas
+  - notebook
+  - voila
