@@ -2,10 +2,11 @@ name: notebooks
 channels:
   - defaults
 dependencies:
+  - scikit-learn
   - python=3.10
-  - notebook
+  - ipywidgets
+  - matplotlib
   - numpy
   - pandas
-  - ipywidgets
-  - scikit-learn
-  - matplotlib
+  - notebook
+  - voila
