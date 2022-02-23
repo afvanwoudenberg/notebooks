@@ -1,12 +1,15 @@
 name: notebooks
 channels:
+  - conda-forge
   - defaults
 dependencies:
-  - scikit-learn
-  - python=3.10
-  - ipywidgets
-  - matplotlib
   - numpy
   - pandas
-  - notebook
+  - scikit-learn
   - voila
+  - python=3.8
+  - ipywidgets
+  - notebook
+  - matplotlib
+  - opencv
+  - squarify
