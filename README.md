@@ -18,7 +18,13 @@ Use k-means clustering to build a color palette from an image.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afvanwoudenberg/notebooks/master?urlpath=voila%2Frender%2Fapps%2Fcolor-palette.ipynb)
 
 ## Sudoku solver
-A sudoku solver using backtracking. Shows how to implement a custom Jupyter Notebook widget.
+A sudoku solver that uses backtracking to find solutions. Shows how to implement a custom Jupyter Notebook widget.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afvanwoudenberg/notebooks/master?urlpath=voila%2Frender%2Fapps%2Fsudoku.ipynb)
+
+## Tic-Tac-Toe
+A notebook that implements various Tic-Tac-Toe agents.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afvanwoudenberg/notebooks/master?urlpath=voila%2Frender%2Fapps%2Ftic-tac-toe.ipynb)
+
 
